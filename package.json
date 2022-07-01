@@ -22,5 +22,8 @@
     "url": "https://github.com/Matt658041/Book-Engine/issues"
   },
   "homepage": "https://github.com/Matt658041/Book-Engine#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react-apollo-hooks": "^0.5.0"
+  }
 }
